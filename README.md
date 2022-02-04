@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Exatisse
+- 👀 I’m interested in user experience, development and motorcycles
+- 🌱 I’m currently learning Javascript and working to improve all my skills
+- 💞️ I’m looking to collaborate with everyone who wants
+- 📫 How to reach me rjb.movperso@gmail.com
