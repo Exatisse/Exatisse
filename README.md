@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Exatisse
+- 👋 Hi, I’m @Exatisse or Baptiste Movrel, as you prefer
 - 👀 I’m interested in user experience, development and motorcycles
 - 🌱 I’m currently learning Javascript and working to improve all my skills
 - 💞️ I’m looking to collaborate with everyone who wants
